@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 {"item":23,	
-	"item":33
-}
+	"item":3
+	"lesson": "Git", 
+	"item": 23}
+
+>>>>>>> applepay
